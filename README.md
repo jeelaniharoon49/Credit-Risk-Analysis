@@ -31,11 +31,8 @@ Accuracy: 93%
 ### Feature Importance
 <img width="716" height="648" alt="Screenshot 2026-06-11 195450" src="https://github.com/user-attachments/assets/6c085efa-7c9c-45d1-beea-6e37a7ba5ca2" />
 Top factors affecting loan default:
-1. Loan Percent Income
-2. Income
-3. Interest Rate
-4. Loan Amount
-5. Home Ownership
+<img width="1131" height="561" alt="image" src="https://github.com/user-attachments/assets/8463522f-26e6-4d47-a3fb-d35282fbac17" />
+
 ## Technologies Used
 - Python
 - Pandas
